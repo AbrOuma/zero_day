@@ -1,2 +1,1 @@
-**My Readme file**
-#This is just the start
+This is the readme file
